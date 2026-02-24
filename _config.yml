@@ -1,7 +1,7 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: donut hope
+url: "http://donuthopehop.github.io"
+title: donut hopping
+description: 
 twitter:
   username: #yourusername
   card: summary
@@ -11,7 +11,7 @@ author:
   name: #yourusername
   avatar:
   email: #youremail
-  url: "http://donuthopehop.github.io"
+  url: 
 permalink: pretty
 
 baseurl: ""
